@@ -88,7 +88,7 @@ Verifikasi email. </li>
 <p><img src="https://1.bp.blogspot.com/-bosoOnfaFwM/X85pI_tIWvI/AAAAAAAAATk/UvjUOIBAkEEP7YGkafPQWYG32SmOMFHrgCLcBGAsYHQ/s2048/preview-page-admin-5.png" style="width: 100%;"></p><br>
 
 
-<p> <a href="https://bianity.net/" target="_blank"> <b> Demo: Versi situs web </b> </a> </p>
+<p> <a href="https://www.bianity.net/jual-script-platform-blog-news-cms" target="_blank"> <b> Demo: Versi situs web </b> </a> </p>
 
 <p> <a href="https://bianity.net/bianity.apk" target="_blank"> <b> Demo: Seluler (Android) - Google Play </b> </a> </p>
 
