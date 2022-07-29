@@ -132,4 +132,4 @@ Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" tar
 
 <p> Masih ada pertanyaan? Atau Anda membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami. </p>
 
-<p> <b> Situs web: </b> <a href="https://bianity.net/post/platform-blog-news-cms" target="_blank"> https://bianity.net/ </a> </p>
+<p> <b> Situs web: </b> <a href="https://www.bianity.net/jual-script-platform-blog-news-cms" target="_blank"> https://bianity.net/ </a> </p>
